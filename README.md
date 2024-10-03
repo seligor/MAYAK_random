@@ -1,4 +1,4 @@
-# otpusk
+# MAYAK_random
 ![Static Badge](https://img.shields.io/badge/seligor-MAYAK_random-MAYAK_random)
 ![GitHub top language](https://img.shields.io/github/languages/top/seligor/MAYAK_random)
 ![GitHub issues](https://img.shields.io/github/issues/seligor/MAYAK_random)
