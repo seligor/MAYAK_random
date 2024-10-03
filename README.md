@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/seligor/MAYAK_random)
 
 ## Установка
-__ скачать:__
+__скачать:__
 ```
 git clone https://github.com/seligor/MAYAK_random.git
 ```
