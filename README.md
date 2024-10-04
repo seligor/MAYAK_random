@@ -14,7 +14,7 @@ python3 -m venv venv
 ```
 __активировать виртуальное окружение:__
 ```
-source venv/bin/activate
+venv\Scripts\activate
 ```
 __установить требуемые библиотеки в окружение:__
 ```
